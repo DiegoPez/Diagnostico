@@ -2,7 +2,7 @@
 
 var edad; 
 
-function incrementAge () {
+function incrementAge (edad) {
     edad = edad +5
 
 }
